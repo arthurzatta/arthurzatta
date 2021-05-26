@@ -1,7 +1,7 @@
 ```console
 Hi, I'm Arthur!
-Actually studying Computer Egineering in CEFET.
-Interested in software development and linux systems.
+- Actually studying Computer Egineering in CEFET.
+- Interested in software development and linux systems.
 
 Find me:
 linkedin: linkedin.com/in/arthurzatta 
