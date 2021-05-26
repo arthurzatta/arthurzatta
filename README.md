@@ -1,4 +1,11 @@
-### Hi there 👋
+```console
+Hi, I'm Arthur!
+Actually studying Computer Egineering in CEFET.
+Interested in software development and linux systems.
+
+Find me:
+linkedin: linkedin.com/in/arthurzatta 
+```
 
 <!--
 **arthurzatta/arthurzatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
