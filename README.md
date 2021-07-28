@@ -2,7 +2,7 @@
 $ cat profile.txt
 Hi, I'm Arthur!
 Actually studying Computer Egineering in CEFET.
-Interested in software development and linux systems.
+Interested in software development.
 
 $ cat social.txt:
 linkedin: linkedin.com/in/arthurzatta 
